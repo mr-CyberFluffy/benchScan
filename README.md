@@ -4,8 +4,8 @@ This tool helps to perform Cloud Configuration Review using CIS benchmark
 # Tool usage
 >Refer following steps:
 1. First, run the "requirements.sh" file.
-2. To run the file use the command "bash requirement.sh" OR "./requirement.sh"
-3. After installation run the audit script "awsAudit-IAM.sh"
+2. To run the file use the command "bash requirements.sh" OR "./requirements.sh"
+3. After installation run the audit script "benchScan.sh"
 4. It will ask for AWS configuration
 
 >It needs:
