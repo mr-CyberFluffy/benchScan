@@ -14,8 +14,8 @@ This tool helps to perform Cloud Configuration Review using CIS benchmark
 3. Region
 4. Output Format
 >e.g.
-1. Access Key: <key provided by client OR your access key>
-2. Secret Key: <key provided by client OR your secret key>
+1. Access Key: "_Your access key_"
+2. Secret Key: "_Your secret key_"
 3. Region: us-east-1
 4. Output Format: json
 etc.
